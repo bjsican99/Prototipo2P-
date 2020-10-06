@@ -1,0 +1,17 @@
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\Prototipo_2P.exe.config
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\Prototipo_2P.exe
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\Prototipo_2P.pdb
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\CapaVista.dll
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\CapaVista.pdb
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.csprojAssemblyReference.cache
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.Form1.resources
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.Properties.Resources.resources
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.csproj.GenerateResource.cache
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.csproj.CopyComplete
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.exe
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\obj\Debug\Prototipo_2P.pdb
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\CapaControlador.dll
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\CapaModelo.dll
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\CapaControlador.pdb
+D:\Escritorio\Prototipo2P-\Prototipo_2P\Prototipo_2P\bin\Debug\CapaModelo.pdb
