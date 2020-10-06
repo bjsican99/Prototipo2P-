@@ -4,3 +4,9 @@ D:\Escritorio\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.Cor
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaModelo\obj\Debug\CapaModelo.pdb

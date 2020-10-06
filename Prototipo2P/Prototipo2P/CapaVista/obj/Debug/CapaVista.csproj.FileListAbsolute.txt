@@ -10,3 +10,15 @@ D:\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyC
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.Formularios.frmMateriaPrima.resources
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmMDI.resources
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaVista.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaVista.pdb
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaControlador.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.Formularios.frmMateriaPrima.resources
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.frmMDI.resources
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaVista\obj\Debug\CapaVista.pdb

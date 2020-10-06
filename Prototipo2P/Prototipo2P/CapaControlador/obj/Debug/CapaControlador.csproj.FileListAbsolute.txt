@@ -7,3 +7,12 @@ D:\Escritorio\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
 D:\Escritorio\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Escritorio\Prototipo2P-\Prototipo2P\Prototipo2P\CapaControlador\obj\Debug\CapaControlador.pdb
